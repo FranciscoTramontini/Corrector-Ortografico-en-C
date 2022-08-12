@@ -34,7 +34,7 @@
     siguiente manera (seguir leyendo para saber que contiene los archivos)
       .... $ ./main archivoEntrada.txt archivoSalida.txt
  
-  *) archivoEntrada.txt:
+  * archivoEntrada.txt:
     Es un archivo que se tendrá que encontrar dentro de la carpeta donde se
     encuentran los archivos del programa. Este archivo contiene el texto a
     ser analizado por el corrector.
@@ -47,7 +47,7 @@
     que las palabras podrı́an estar escritas con mayúsculas, minúsculas, o una
     mezcla de ambas.
 
-  *) archivoSalida.txt:
+  * archivoSalida.txt:
     No hace falta que sea creado, se creará automáticamente cuando una palabra
     no este en el diccionario y asi sucesivamente con las demas palabras.
     Por cada palabra no incluida en nuestro diccionario que encontremos en el
@@ -93,7 +93,7 @@ código:
   hasta terminar.
 
 
-  *) Observación: debido a la enorme cantidad de palabras que se generan con 
+  * Observación: debido a la enorme cantidad de palabras que se generan con 
   las sugerencias es probable que suceda que si al programa se le da una 
   palabra larga (con longitud mayor a 7 u 8 aproximadamente), el mismo tarde en 
   generar las sugerencias o incluso puede pasar que no se pueda terminar la 
