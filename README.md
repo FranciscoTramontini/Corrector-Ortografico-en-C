@@ -1,6 +1,6 @@
 # Corrector-Ortografico-en-C
 
-##En la carpeta del programa se encuentra:
+## En la carpeta del programa se encuentra:
   - slist.h, slist.c : contiene las funciones para una LSE (Lista Simplemente
                        Enlazada).
   - cola.h, cola.c : contiene las funciones para una Cola mediante una LCDE
@@ -22,7 +22,7 @@
   makefile : para correr el programa.
 
 
-##Compilación y ejecución del programa:
+## Compilación y ejecución del programa:
 
   Compilación:
     Se utiliza gcc. Abrir la terminal de comandos donde se encuentran los 
@@ -60,7 +60,7 @@
     Quizas quiso decir: SUGERENCIA_1 , SUGERENCIA_2 , ... , SUGERENCIA_N
 
 
-##Estructuras de datos elegidas para el trabajo y otras observaciones sobre el
+## Estructuras de datos elegidas para el trabajo y otras observaciones sobre el
 código:
 
   *  Elegí para guardar las palabras del diccionario una Tabla Hash que 
